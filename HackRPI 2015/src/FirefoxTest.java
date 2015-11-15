@@ -15,6 +15,6 @@ public class FirefoxTest extends AbstractTest{
 //        WebElement query3 = driver.findElement(By.cssSelector("div#content .feature table:nth-child(2) tr:last-child>td>a"));
 //        System.out.println(query3.getText());
 //        query3.click();
-        //driver.quit();
+        driver.quit();
 	}
 }
